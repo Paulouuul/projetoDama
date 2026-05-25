@@ -28,7 +28,7 @@ cd projetoDama
 
 ### 2. Configure o banco de dados
 
-Crie um arquivo `.env` na raiz do projeto com base no arquivo `.env.example`.
+Crie um arquivo `.env` na pasta `projetoDana` do projeto com base na estrutura do arquivo arquivo `.env.example`.
 
 Exemplo:
 
