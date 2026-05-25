@@ -1,0 +1,75 @@
+# Arquivos do Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Arquivos do VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Arquivos do Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+bin/
+*.tmp
+*.orig
+*.old
+*.bak
+
+# Arquivos do Java
+*.class
+*.log
+*.ctxt
+*.lst
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos de log
+*.log
+logs/
+
+# Arquivos de configuração sensíveis
+.env
+application.properties
+application.yml
+secrets.yml
+
+# Arquivos de backup
+*.bak
+*.backup
+*.swp
+*.swo
+*~
+
+# Arquivos do NetBeans
+nbproject/
+nbactions.xml
+nb-configuration.xml
+
+# Arquivos do IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Pastas temporárias
+temp/
+tmp/
+cache/
