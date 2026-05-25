@@ -16,7 +16,7 @@ Antes de executar o projeto, certifique-se de possuir instalado:
 
 ## 🚀 Como Executar o Projeto
 
-### 1. Clone o repositório
+### 1. Clone o repositório e vá para a pasta raíz do projeto
 
 ```bash
 git clone https://github.com/Paulouuul/projetoDama.git
@@ -27,7 +27,7 @@ cd projetoDama
 
 ### 2. Configure o banco de dados
 
-Crie um arquivo `.env` na pasta `projetoDana` do projeto com base na estrutura do arquivo arquivo `.env.example`.
+Crie um arquivo `.env` na pasta raíz do projeto com base na estrutura do arquivo arquivo `.env.example`.
 
 Exemplo:
 
