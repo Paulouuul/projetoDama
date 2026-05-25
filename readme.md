@@ -11,7 +11,6 @@ Antes de executar o projeto, certifique-se de possuir instalado:
 - **Java 17** ou superior
 - **Maven 4**
 - **MySQL**
-- **VS Code** ou outra IDE Java
 
 ---
 
