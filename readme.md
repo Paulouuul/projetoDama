@@ -75,7 +75,7 @@ mvn package
 Executar o `.jar`:
 
 ```bash
-java -jar target/projetoDama-1.0-SNAPSHOT.jar
+java -jar target/projetoDama.jar
 ```
 
 ---
