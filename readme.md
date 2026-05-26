@@ -164,7 +164,6 @@ java -jar target/projetoDama.jar
 ├── images/
 ├── .env.example
 ├── .gitignore
-├── pom.xml
 └── README.md
 ```
 
